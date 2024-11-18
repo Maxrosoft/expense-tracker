@@ -23,7 +23,7 @@ A CLI application to manage your finances. Allows you to add, update, and delete
 1. **Clone the repository or download the project code:**
 
    ```bash
-   git clone https://github.com/maxrosoft/expense-tracker.git
+   git clone https://github.com/Maxrosoft/expense-tracker.git
    ```
 
 2. **Navigate to the project directory:**
