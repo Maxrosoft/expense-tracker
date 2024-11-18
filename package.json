@@ -1,0 +1,26 @@
+{
+    "name": "expense-tracker-cli",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "bin": {
+        "expense-tracker": "./index.js"
+    },
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "cli-table": "^0.3.11",
+        "commander": "^12.1.0",
+        "dotenv": "^16.4.5",
+        "expense-tracker-cli": "file:",
+        "moment": "^2.30.1",
+        "mongoose": "^8.8.1",
+        "objects-to-csv": "^1.3.6",
+        "validator": "^13.12.0"
+    }
+}
