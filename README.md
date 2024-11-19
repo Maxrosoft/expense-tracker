@@ -2,6 +2,8 @@
 
 A CLI application to manage your finances. Allows you to add, update, and delete expenses, view expense lists and summaries, set monthly budgets, and export data to a CSV file.
 
+https://roadmap.sh/projects/expense-tracker
+
 ## Features
 
 - **Add Expenses**: Record expenses with a description, amount, and category.
